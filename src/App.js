@@ -1,7 +1,7 @@
 import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
-import Counter from "./components/Counter";
+import QuoteController from "./components/QuoteController";
 
 function App() {
   return (
@@ -11,7 +11,7 @@ function App() {
         <p>Take a quote, leave a quote</p>
       </div>
       <div className="App">
-        <Counter></Counter>
+        <QuoteController></QuoteController>
       </div>
     </div>
   );
