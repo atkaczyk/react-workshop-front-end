@@ -1,4 +1,20 @@
+# GHC Workshop: UI for handling GET, POST, PUT Affirmations from Serverless Backend API
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This repo is designed for the purpose of facilitating ...
+
+### Local machine prerquisite:
+
+- latest stable version of [npm](https://www.npmjs.com/get-npm) is installed
+- [git](https://git-scm.com/downloads) is installed
+
+### Steps for running this app locally
+
+1. Clone this repo
+2. `cd` into the `react-workshop-front-end` directory
+3. Install dependencies: `npm install`
+4. Run `npm start`
+5. Open up `http://localhost:3000/` in your browser to see the application running
 
 ## Available Scripts
 
